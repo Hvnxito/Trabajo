@@ -1,0 +1,69 @@
+.Titulo1{
+    /*background-color: rgb(255, 238, 0);*/
+    background-color:rgb(136, 255, 0);
+    height: 50px;
+    background-size:30px, 20px;
+    background-repeat: repeat-y;
+    background-position:center bottom;
+    /*opacity: 0.3;*/
+
+    /* Para hacer nuestro background de forma mas corta */
+}
+
+.Sub1{
+    color:crimson /*Cambio de color el Sub1*/
+}
+
+.Parrafo1{
+    color: rgb(255, 0, 200); /*Cambio de color el Parrafo 1*/
+}
+
+
+.Parrafo2{
+    color:rgb(25, 0, 255) /*Cambio de color el Parrafo 2 */
+}
+
+.display-1{
+    color:darkorange /*Cambio de color la table */
+}
+
+.img{
+    height: 300px; width: 400px; /*se ajusto la imagen*/
+}
+
+.Sub2{
+    color: aqua; /*Cambio de color el Sub2*/
+}
+
+.imagen{
+    background-color:navy;
+    
+    /* aqui utilizamos la propiedad de margen*/
+    margin: 20px 20px 20px 20px;
+    padding: 35px 30px 25px 20px;
+    border: chartreuse solid 10px;
+    height: 300px;
+    width: 400px;
+    overflow: scroll;
+    outline: rgb(255, 0, 43) 10px dotted;
+}
+
+.Sub3{
+    color: rgb(255, 0, 191); /*Cambio de color el Sub2*/
+}
+
+.Parrafo3{
+    color:rgb(255, 0, 0) /*Cambio de color el Parrafo 2 */
+}
+
+.Mapa{
+    color:rgb(0, 26, 255) /*Cambio de color el Parrafo 2 */
+}
+
+.col-4{
+    color:rgb(17, 0, 255) /*Cambio de color el Parrafo 2 */
+}
+
+.col-2{
+    color:rgb(17, 0, 255) /*Cambio de color el Parrafo 2 */
+}
